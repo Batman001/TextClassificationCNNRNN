@@ -1,0 +1,2 @@
+# TextClassificationCNNRNN
+使用卷积和循环神经网络结构对CNEWS中文新闻文档进行分类
